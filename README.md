@@ -1,2 +1,2 @@
 # Silly-Songs
-repo of silly songs
+repo of silly songs in the key of C major
